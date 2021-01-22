@@ -1,0 +1,16 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\02_DeserializarXML.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\02_DeserializarXML.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\02_DeserializarXML.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\02_DeserializarXML.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\02_DeserializarXML.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\02_DeserializarXML.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\bin\Debug\netcoreapp3.1\00_Biblioteca.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.csproj.CopyComplete
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\02_DeserializarXML\obj\Debug\netcoreapp3.1\02_DeserializarXML.genruntimeconfig.cache

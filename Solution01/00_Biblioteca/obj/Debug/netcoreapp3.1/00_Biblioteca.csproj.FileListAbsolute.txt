@@ -1,0 +1,9 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\bin\Debug\netcoreapp3.1\00_Biblioteca.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\bin\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\bin\Debug\netcoreapp3.1\00_Biblioteca.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\00_Biblioteca\obj\Debug\netcoreapp3.1\00_Biblioteca.pdb

@@ -1,0 +1,17 @@
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\04_DeserializarJSON.exe
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\04_DeserializarJSON.deps.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\04_DeserializarJSON.runtimeconfig.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\04_DeserializarJSON.runtimeconfig.dev.json
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\04_DeserializarJSON.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\04_DeserializarJSON.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\00_Biblioteca.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\bin\Debug\netcoreapp3.1\00_Biblioteca.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.csproj.CopyComplete
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.dll
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.pdb
+C:\Users\AAIO\My Private Documents\Udemy\CursoCSharp_Avancado\Solution01\04_DeserializarJSON\obj\Debug\netcoreapp3.1\04_DeserializarJSON.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUM7bXleuUInqQp9wGKz7MvJJAiZ3ca+NiX24PFtBXi3N/jpPUyAcZMWyok+LXI2Ri+jOpUUDVF4dK/xPLJEeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AAIO\\My Private Documents\\Udemy\\CursoCSharp_Avancado\\Solution01\\04_DeserializarJSON\\04_DeserializarJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AAIO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
